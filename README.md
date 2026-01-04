@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shresth.</h1>
 <h3>💫 About Me:</h3>
-<h4 align="centre">Full Stack Developer from India.</h4>
+<h4>Full Stack Developer from India.</h4>
 
 
 ## 🌐 Socials:
