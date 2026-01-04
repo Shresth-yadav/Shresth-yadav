@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shresth.</h1>
-# 💫 About Me:
+💫 About Me:
 Passionate full-stack developer from India.
 
 
